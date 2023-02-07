@@ -1,0 +1,21 @@
+
+.d-flex {
+  height: 100%;
+  display: block;
+}
+.mr-2{
+    margin-top: 50px;
+    margin-left: -200px;
+    width: 200px;
+}
+.stars{
+    margin-left: -150px;
+}
+.HomePage{
+    color: beige;
+   
+}
+.hero{
+    max-width: 100%;
+    max-height: 100%;
+}

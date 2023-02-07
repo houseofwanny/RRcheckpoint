@@ -1,0 +1,52 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+
+.adding-movie{
+  margin: 100px 25px;
+  justify-content:left;
+  text-align: left;
+}
+.related_links{
+  margin-right: 60rem;
+}
+  .menu{
+    list-style-type: none;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+    margin:0 50px;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li:hover {
+    background-color: #111;
+  }
+
